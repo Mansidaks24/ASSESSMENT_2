@@ -65,8 +65,7 @@ Once the contract is deployed, you can interact with it by calling the mint func
 ## Authors
 
 Mansidak Singh  
-[@metacrafter](mansidaksingh24@gmail.com   )
-
+[@mansidaksingh24@gmail.com)]
 
 ## License
 
